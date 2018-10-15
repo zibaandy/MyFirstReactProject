@@ -1,0 +1,105 @@
+{
+    "title": "Hello! I am Ziba",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast  ",
+    "socialIcon": [{
+            "url": "https://github.com/zibaandy",
+            "className": "fa-github"
+        },
+        {
+            "url": "https://stackoverflow.com/story/zibaandy_lar",
+            "className": "fab fa-stack-overflow"
+        },
+        {
+            "url": "https://www.linkedin.com/in/zibaandy",
+            "className": "fa-linkedin"
+        }
+
+    ],
+    "links": {
+        "github": "https://github.com/zibaandy",
+        "stackoverflow": "https://stackoverflow.com",
+        "linkedin": "https://www.linkedin.com/in/zibaandy"
+    },
+    "sections": [{
+            "title": "about",
+            "items": [{
+                "type": "p",
+                "content1": "I am ziba and this page is my first react project.",
+"content2":" I begin to study about web since two years ago."
+            }]
+        },
+        {
+            "title": "skills",
+            "items": [{
+                    "type": "card",
+                    "content": {
+                        "image": "https://image.flaticon.com/icons/png/512/919/919851.png",
+                        "title": "React",
+                        "alt": "React-picture"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://image.flaticon.com/icons/png/512/174/174854.png",
+                        "title": "HTML",
+                        "alt": "HTML-picture"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://image.flaticon.com/icons/png/512/732/732190.png",
+                        "title": "CSS",
+                        "alt": "CSS-picture"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://image.flaticon.com/icons/png/512/919/919828.png",
+                        "title": "Javascript",
+                        "alt": "Javascript-picture"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://image.flaticon.com/icons/png/512/919/919830.png",
+                        "title": "PHP",
+                        "alt": "php-picture"
+                    }
+                }
+            ]
+
+        }
+    ],
+    "icons": {
+        "down": "images/down.png",
+        "top": "images/top.png",
+        "magic": "images/magic-wand.png"
+    },
+    "color": {
+        "backgroundColor": [
+
+            {
+                "bgColor": "rgba(242, 242, 242, 0.85)"
+            },
+
+
+            {
+                "bgColor": "rgba(250, 250, 250, 1)"
+            },
+
+
+
+
+            {
+                "bgColor": "rgba(241, 241, 241, 1)"
+            }
+
+
+        ],
+        "textColor": "blue"
+    }
+}
