@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zibaandymyfirstreactproject.com/",
+  "homepage": "http://zibaandymyfirstreactproject.io/",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "prop-types": "^15.6.2",
